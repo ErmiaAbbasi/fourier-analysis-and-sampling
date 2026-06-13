@@ -32,6 +32,6 @@ For a detailed mathematical breakdown and full analysis of the results, please r
 ## ✍️ Author
 ### Ermia Abbasi
 
-[My Linkedin](www.linkedin.com/in/Ermiaabbasi)
+[My Linkedin](https://www.linkedin.com/in/Ermiaabbasi)
 
-[My Email](Ermiaabbasi2006@gmail.com)
+[My Email](mailto:Ermiaabbasi2006@gmail.com)
