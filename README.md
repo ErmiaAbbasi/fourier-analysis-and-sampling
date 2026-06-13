@@ -31,7 +31,7 @@ For a detailed mathematical breakdown and full analysis of the results, please r
 
 ## ✍️ Author
 ### Ermia Abbasi
-
+<!-- LinkedIn Badge -->
 [My Linkedin](https://www.linkedin.com/in/Ermiaabbasi)
-
+<!-- Gmail Badge -->
 [My Email](mailto:Ermiaabbasi2006@gmail.com)
